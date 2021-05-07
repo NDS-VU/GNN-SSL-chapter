@@ -86,7 +86,5 @@ All the above pretext tasks are designed based on either the node or the graph l
 * [ Graph-based, Self-Supervised Program Repair from Diagnostic Feedback](https://arxiv.org/pdf/2005.10636.pdf) (ICML 2020) [[**Summary**]](summary/program_repair.pdf).
 * [ Can Graph Neural Networks Go "Online"? An Analysis of Pretraining and Inference](https://arxiv.org/pdf/1905.06018.pdf) (ICLR 2019 workshop) [[**Summary**]](summary/online.pdf).
 
-## Reference
-
-## Acknowledge
-Most of resources in this collection are partially maintained by [**awesome-self-supervised-gnn**](https://github.com/ChandlerBang/awesome-self-supervised-gnn). Please also refer to [**awesome-self-supervised-gnn**](https://github.com/ChandlerBang/awesome-self-supervised-gnn) for the most update-to-date 
+## Reference and Acknowledge
+For an up to date list of SSL GNN papers please refer to [**awesome-self-supervised-gnn**](https://github.com/ChandlerBang/awesome-self-supervised-gnn).
