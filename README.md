@@ -3,7 +3,7 @@ Categorization and summarization of the state-of-the-art Self-supervised Learnin
 
 For more details, please refer to **our book chapter (link coming soon)**. If you find this useful and use it in your research, please cite our work as follows:
 
-    @inproceedings{wang2021sslgnn,
+    @inproceedings{wang2021gnnssl,
      author = {Wang, Yu and Jin, Wei and Derr, Tyler},
      title = {Graph Neural Networks: Self-supervised Learning},
      booktitle = {Graph Neural Networks: Foundations, Frontiers, and Applications}
