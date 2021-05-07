@@ -6,10 +6,10 @@ For more details, please refer to **our book chapter (link coming soon)**. If yo
     @inproceedings{wang2021gnnssl,
      author = {Wang, Yu and Jin, Wei and Derr, Tyler},
      title = {Graph Neural Networks: Self-supervised Learning},
-     booktitle = {Graph Neural Networks: Foundations, Frontiers, and Applications}
+     booktitle = {In: Lingei Wu, Peng Cui, Liang Zhao, Jian Pei (eds), Graph Neural Networks: Foundations, Frontiers, and Applications}
      year = {2021}
      publisher = {Springer}
-    } 
+    }
 
 
 # Contents
